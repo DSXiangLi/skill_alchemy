@@ -1,0 +1,8 @@
+# Extracted session data and all output products may contain API keys and user paths
+meta_skill/skills/skill-alchemy/output/
+tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+.idea/
